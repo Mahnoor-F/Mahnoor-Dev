@@ -1,13 +1,34 @@
-# Hi there 👋, I'm [Mahnoor]
+# Hi there, I'm Mahnoor! 👋 🇵🇰
 
-### 🚀 About Me
-- ⚡ Created by **Mahnoor**.
-- 🛠️ Working on building a solid portfolio and pushing clean code.
-- 🔭 I’m currently learning more about GitHub workflows.
-- 🌱 I love building projects that solve real-world problems.
+### 🚀 Frontend & React.js Developer
+I am a self-driven developer with **10 months of internship experience** at Brisk Tech Sol. I specialize in building responsive, state-managed web applications. I am a quick learner who taught herself the modern tech stack from scratch and is now looking to contribute to a professional team.
 
-### 🛠️ Tech Stack
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+---
 
-### 📊 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=[YOUR-USERNAME]&show_icons=true&theme=radical)
+### 🛠️ Tech Stack & Skills
+- **Core:** HTML5, CSS3, JavaScript (ES6+), React.js.
+- **State Management:** Redux Toolkit, Redux Persist, React Query.
+- **Styling:** Tailwind CSS, Bootstrap.
+- **Utilities:** Clerk Auth, Lucide Icons, Axios.
+- **Tools:** Git, GitHub, VS Code.
+
+---
+
+### 🌟 Why Me?
+- **Self-Taught:** High ability to research, explore, and implement new libraries independently.
+- **Experience:** 10 months of practical exposure in a professional environment.
+- **Goal:** Seeking a role (Expected: 40k+) where I can work in a team, follow professional workflows, and grow as a developer.
+
+---
+
+### 📊 My GitHub Stats
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=Mahnoor-F&show_icons=true&theme=radical&hide_border=true" alt="Mahnoor's Stats" />
+</p>
+
+---
+
+### 📫 Connect with Me
+- 📧 **Email:** [mahnoorfatimashahzaib@gmail.com](mailto:mahnoorfatimashahzaib@gmail.com)
+- 🔗 **LinkedIn:** [Mahnoor Shahzaib](https://www.linkedin.com/in/mahnoor-shahzaib/)
+- 📞 **WhatsApp/Call:** +92 300 7424279
