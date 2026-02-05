@@ -1,4 +1,4 @@
-# Hi there, I'm Mahnoor! 👋 🇵🇰
+# Hi there, I'm Mahnoor! 👋
 
 ### 🚀 Frontend & React.js Developer
 I am a self-driven developer with **10 months of internship experience** at Brisk Tech Sol. I specialize in building responsive, state-managed web applications. I am a quick learner who taught herself the modern tech stack from scratch and is now looking to contribute to a professional team.
