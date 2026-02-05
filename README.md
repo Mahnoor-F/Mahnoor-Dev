@@ -21,6 +21,18 @@ I am a self-driven developer with **10 months of internship experience** at Bris
 
 ---
 
+### 📂 Featured Projects
+
+- **[Vortex Crypto](https://vortex-crypto.netlify.app/)** - A real-time cryptocurrency tracking dashboard that displays live market prices and trends using API integration.
+  - *Tech:* React.js, Axios, Tailwind CSS.
+  - 🔗 [Live Demo](https://vortex-crypto.netlify.app/)
+
+- **[Zyra Store](https://zyra-store.netlify.app/)** - A modern and responsive e-commerce web application featuring product listings and a seamless user experience.
+  - *Tech:* React.js, Redux Toolkit, Tailwind CSS.
+  - 🔗 [Live Demo](https://zyra-store.netlify.app/)
+
+---
+
 ### 💼 Experience & Education
 - 🏢 **Internship:** 10 Months at [Brisk Tech Sol](https://brisktechsol.com/) (Frontend Role).
 - 🎓 **Education:** Intermediate (ICS).
