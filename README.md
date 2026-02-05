@@ -40,14 +40,6 @@ I am a self-driven developer with **10 months of internship experience** at Bris
 
 ---
 
-### 📊 GitHub Stats & Languages
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=Mahnoor-F&show_icons=true&theme=radical&hide_border=true" height="150" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahnoor-F&layout=compact&theme=radical&hide_border=true" height="150" />
-</p>
-
----
-
 ### 📫 Let's Connect!
 - 📧 **Email:** mahnoorfatimashahzaib@gmail.com
 - 🔗 **LinkedIn:** [linkedin.com/in/mahnoor-shahzaib/](https://www.linkedin.com/in/mahnoor-shahzaib/)
