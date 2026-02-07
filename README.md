@@ -43,4 +43,5 @@ I am a self-driven developer with **10 months of internship experience** at Bris
 ### 📫 Let's Connect!
 - 📧 **Email:** mahnoorfatimashahzaib@gmail.com
 - 🔗 **LinkedIn:** [linkedin.com/in/mahnoor-shahzaib/](https://www.linkedin.com/in/mahnoor-shahzaib/)
+- 🔗 **Portfolio:** [https://mahnoorf-portfolio.netlify.app/](https://mahnoorf-portfolio.netlify.app/)
 - 📞 **Contact:** +92 3298025408
